@@ -1,4 +1,4 @@
-# Sound-Recognition-use-Convolution-Neural-Network-CNN-
+# Sound-Recognition-use-Convolution-Neural-Network(CNN)
 Final Project of Technical Artificial Intelligence.
 
 Topic: Deep Networks and their application.
